@@ -24,7 +24,7 @@ Program will run and compare the md5 hash of the ROM under test, or display the 
 
 ![Serial Output](https://raw.githubusercontent.com/MyRetroStore/MPS6540-ROM-Tester/main/hardware/mps6540-serial.png)
 
-The Arduino code comes pre-configured with a set of md5 hashes from most of the Commodore ROMs, but additional hashes can be added using the supplied python [script](https://github.com/MyRetroStore/MPS654-ROM-Tester/tree/main/software)
+The Arduino code comes pre-configured with a set of md5 hashes from most of the Commodore ROMs, but additional hashes can be added using the supplied python [script](https://github.com/MyRetroStore/MPS6540-ROM-Tester/tree/main/software)
 
 ## Shield
 
